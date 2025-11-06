@@ -14,7 +14,6 @@
 3. Redux Toolkit
 4. React Route
 
-
 # Redux Toolkit
 
 ## 1. UserSlice
